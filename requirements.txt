@@ -1,0 +1,6 @@
+keyboard
+numpy
+whisper
+torch
+speech_recognition
+pynput

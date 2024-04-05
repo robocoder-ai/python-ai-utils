@@ -1,0 +1,12 @@
+@startuml
+start
+:User presses F4 key;
+:Start recording audio;
+:Audio is recorded in real time;
+:User releases F4 key;
+:Stop recording audio;
+:Transcribe the recorded audio;
+:Print the transcription;
+:Type the transcribed text;
+stop
+@enduml
